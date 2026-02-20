@@ -3,13 +3,12 @@ DEPI R1 Data analytics
 
 
 
-Project Name 
-. 
-  
-Project Idea 
-..........................................................................................................................                   
-          ..................................................................................................................                 
- 
+Project Name :
+Social media addiction and it's consequences
+
+Project Idea  : 
+ This project analyzes social media usage patterns to identify potential addiction indicators using data analytics.
+It combines usage time, platform preference, sleep patterns, mental health indicators, and academic/work performance to understand the impact of excessive digital consumption
 Team Members 
 
 1.Ramez Gamal Shakra	  
